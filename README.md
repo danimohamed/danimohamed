@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lil_dani_yy/?hl=fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-dani-2a8065152) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohameddani_1) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.dani.923?locale=fr_FR) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lil_dani_yy/?hl=fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dani-2a8065152/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohameddani_1) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.dani.923?locale=fr_FR) 
 
 
 
