@@ -1,4 +1,3 @@
-#about me
 👋 Hello there! I'm Mohamed Dani, a passionate and dedicated software engineering student on a journey to explore the vast realms of technology. 🚀
  
  
