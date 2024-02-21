@@ -10,4 +10,4 @@
 # My stats :
 
 
-[![](https://raw.githubusercontent.com/danimohamed/danimohamed/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![]
+[![](https://raw.githubusercontent.com/danimohamed/danimohamed/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
